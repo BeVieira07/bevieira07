@@ -1,140 +1,155 @@
-👋 Olá, eu sou o Bernardo Vieira
+# 👋 Olá, eu sou o Bernardo Vieira
 
-Desenvolvedor em formação com foco em back-end, Inteligência Artificial e integração de sistemas.Atuo no desenvolvimento de soluções com IA aplicadas a problemas reais, desde experimentação e prototipação até integração e otimização de aplicações.
+Desenvolvedor em formação com foco em **back-end, Inteligência Artificial e integração de sistemas**.  
+Atuo no desenvolvimento e na otimização de soluções com LLMs, APIs, automação e infraestrutura para aplicações inteligentes.
 
-📍 Florianópolis, SC — Brasil🎓 Análise e Desenvolvimento de Sistemas — IFSC💼 Estagiário em Pesquisa e Desenvolvimento de IA — Dígitro Tecnologia
+📍 Florianópolis, SC — Brasil  
+🎓 Análise e Desenvolvimento de Sistemas — IFSC  
+💼 Estagiário em Pesquisa e Desenvolvimento de IA — Dígitro Tecnologia
 
-🔗 Conecte-se comigo
+---
 
+## 🔗 Conecte-se comigo
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BeVieira07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bevieiras@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548984269153)
 
-🚀 Sobre mim
+---
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atuo com pesquisa e desenvolvimento de soluções baseadas em Inteligência Artificial.
+## 🚀 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo com **Pesquisa e Desenvolvimento em Inteligência Artificial**.
 
 Tenho experiência e interesse em:
 
-Desenvolvimento de APIs REST com Python e FastAPI
+- Desenvolvimento de APIs REST com Python e FastAPI
+- Aplicações baseadas em LLMs e Retrieval-Augmented Generation (RAG)
+- Engenharia de prompts, embeddings e bancos de dados vetoriais
+- Integração e orquestração de modelos e agentes de IA
+- Processamento, validação e vetorização de dados
+- Otimização de inferência com KV Cache e Continuous Batching
+- Conteinerização com Docker e práticas de CI/CD
+- Desenvolvimento front-end com React e TypeScript
+- Integração de sistemas, automação e bancos de dados SQL
 
-Integração de sistemas e automação de processos
+Atualmente, trabalho com soluções de IA aplicadas a problemas reais, buscando evoluir em arquitetura de sistemas, desenvolvimento back-end e construção de aplicações inteligentes.
 
-Large Language Models (LLMs), RAG e engenharia de prompts
+---
 
-Processamento de dados, embeddings e bancos vetoriais
+## 📊 GitHub Stats
 
-Docker, Linux, Git e pipelines de CI/CD
-
-Bancos de dados SQL
-
-Otimização de inferência com KV Cache e Continuous Batching
-
-Desenvolvimento front-end com React e TypeScript
-
-Atualmente, trabalho com Pesquisa e Desenvolvimento de IA na Dígitro, participando da construção, integração e otimização de aplicações inteligentes.
-
-📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BeVieira07&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Bernardo Vieira" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeVieira07&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Bernardo Vieira" />
+<div align="left">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=BeVieira07&theme=dracula&hide_border=true" alt="GitHub streak"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeVieira07&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais utilizadas"/>
 </div>
 
-💼 Experiência Profissional
+---
 
-🤖 Estagiário em Pesquisa e Desenvolvimento de IA — Dígitro Tecnologia
+## 💼 Experiência Profissional
 
-04/2026 — Atual
+### 🤖 Estagiário em Pesquisa e Desenvolvimento de Inteligência Artificial — Dígitro Tecnologia  
+**(04/2026 — Atual)**
 
-Desenvolvimento e otimização de soluções baseadas em IA e LLMs
+- Desenvolvimento e otimização de soluções baseadas em LLMs
+- Criação de pipelines de RAG, embeddings e processamento de dados
+- Desenvolvimento e integração de APIs com FastAPI
+- Integração de modelos multimodais e orquestração de agentes
+- Avaliação de modelos e otimização de inferência
+- Uso de Docker, SQL, Git e práticas de CI/CD
 
-Criação e integração de APIs com FastAPI
+### ⚙️ Aprendiz de Implantação de Sistemas — Nexxera  
+**(12/2023 — 07/2024)**
 
-Desenvolvimento de pipelines de RAG, embeddings e processamento de dados
+- Apoio na implantação e configuração de sistemas corporativos
+- Cadastro e configuração de clientes e parceiros
+- Integração e validação de dados
+- Automação de rotinas com Shell e Python
+- Suporte técnico e acompanhamento pós-implantação
+- Documentação de processos e rotinas operacionais
 
-Integração de modelos e orquestração de agentes
+---
 
-Uso de Docker, SQL, Linux e práticas de CI/CD
+## 🎓 Formação Acadêmica
 
-Avaliação de modelos e otimização de inferência
+### Análise e Desenvolvimento de Sistemas — IFSC  
+**(03/2025 — 08/2027, previsão)**
 
-⚙️ Aprendiz de Implantação de Sistemas — Nexxera
+---
 
-12/2023 — 07/2024
+## 🛠️ Tecnologias
 
-Apoio na implantação e configuração de sistemas corporativos
+### Linguagens
 
-Cadastro e configuração de clientes e parceiros
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Integração e validação de dados
+---
 
-Automação de rotinas com Python e Shell
+### Back-end & APIs
 
-Suporte técnico e acompanhamento pós-implantação
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Documentação de processos e rotinas operacionais
+---
 
-🛠️ Tecnologias
+### Inteligência Artificial
 
-Linguagens
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=semanticweb&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-5A29E4?style=for-the-badge&logo=databricks&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,bash" alt="Linguagens" />
-</p>
+---
 
-Back-end e Inteligência Artificial
+### Front-end
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-FastAPI
+---
 
-APIs REST
+### Infraestrutura & Ferramentas
 
-Machine Learning e Deep Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Large Language Models (LLMs)
+---
 
-Retrieval-Augmented Generation (RAG)
+## 📋 Metodologias
 
-Engenharia de prompts
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Agile](https://img.shields.io/badge/Metodologias_Ágeis-FF6B35?style=for-the-badge&logo=target&logoColor=white)
 
-Embeddings e bancos de dados vetoriais
+---
 
-Orquestração de agentes
+## 🌍 Idiomas
 
-Front-end
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário para leitura técnica
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react" alt="Front-end" />
-</p>
+---
 
-Infraestrutura e dados
+## 📫 Contato
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,mysql,postgres" alt="Infraestrutura e dados" />
-</p>
+📧 **Email:** bevieiras@gmail.com  
+📱 **WhatsApp:** +55 48 98426-9153  
+📍 **Localização:** Florianópolis, SC — Brasil
 
-Docker
+---
 
-Linux
-
-Git e GitHub
-
-SQL
-
-CI/CD
-
-Scrum, Kanban e metodologias ágeis
-
-🌍 Idiomas
-
-🇧🇷 Português — Nativo
-
-🇺🇸 Inglês — Intermediário para leitura técnica
-
-📫 Contato
-
-📧 E-mail: bevieiras@gmail.com💻 GitHub: github.com/BeVieira07
-
-💡 Interesses atuais: desenvolvimento back-end, APIs, LLMs, RAG, automação inteligente, integração de sistemas, arquitetura de software e IA aplicada a produtos.
+> 💡 Interesses atuais: desenvolvimento back-end, APIs, LLMs, RAG, agentes de IA, automação, arquitetura de sistemas, otimização de inferência e aplicações inteligentes.
